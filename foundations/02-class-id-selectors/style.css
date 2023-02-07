@@ -1,0 +1,18 @@
+.paragraph {
+    background-color: hsl(0, 100%, 89%);
+    font-family: Verdana, "DeJavu Sans", sans-serif;
+}
+
+.bigger-text {
+    font-size: 24px;
+}
+
+#first {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#second {
+    font-weight: bold;
+    background-color: #90ee90;
+}
